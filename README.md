@@ -1,4 +1,3 @@
-# Overview
 
 # Algorithmic-Trading
 ## Java Algo for FX and Stocks Trading Using SMA
@@ -8,6 +7,21 @@ This Java algorithm is a simple base code for FX and stocks trading that utilize
 in the FX and stock markets. This algorithm leverages SMA indicators to trigger buy/sell actions based on moving average crossovers with considerations to a bullish
 and bearish trends.
 
+# Table of Contents
+ - Overview
+ - key Features
+ - Requirements
+ - Installation
+ - Usage
+ - Functionalities
+ - benefits
+ - Use case
+ - Improvements
+
+# Overview 
+This Java algorithm leverages the Simple Moving Average (SMA) strategy for trading in the Foreign Exchange (FX) and stock markets. The algorithm implements a basic
+SMA-based trading strategy for performing buy/sell actions based on the crossing of short and long-term moving averages.
+   
 # Key Features:
  - SMA-based Strategy: Utilizes the Simple Moving Average methodology to evaluate market trends and fluctuations.
 
@@ -15,6 +29,44 @@ and bearish trends.
 
  - FX and Stocks Integration: Works in both the Foreign Exchange and stock markets for diversified trading capabilities.
 
+# Requirements
+Java Development Kit (JDK): Install JDK version 8 or higher.
+
+# Installation
+## Installation Guide
+Before installing ensure you have :
+- An operating system: Windows, macOS, or Linux.
+- Java runtime enviroment(JRE): Install JRE version 8 or higher.
+- Internet connection: It is required for fetching the real-time data.
+
+## Installation Steps
+
+## Step 1: Download or clone repository
+### Download ZIP or Clone the Repository:
+  - GitHub: Visit the repository page on GitHub (provide repository URL) and click on "Clone or download" > "Download ZIP."
+  - Git: Alternatively, if you have Git installed, use git clone <repository URL> in your terminal or command prompt.
+
+## Step 2: Set Up Environment
+### Check Java Installation:
+  - Open a terminal or command prompt and type java -version to confirm that Java is installed and properly configured.
+  - Extract ZIP (If downloaded):
+     - If you downloaded a ZIP file, extract it to a location of your choice.
+
+## Step 3: Build and Run
+### Build the Application (if necessary):
+  - Depending on the project structure, you may need to build the application. 
+  - Run the Application:
+      - Execute the application using the provided executable file or command. For Java applications, you might run a command like java -jar <app-name>.jar
+        and and JSON-java.
+
+# Usage and Configuration
+## Usage:
+   - Explore the user interface or APIs provided by the currency converter application.
+   - Configuration
+      - The application requires configuration, such as API keys.  
+
+  - Clone or download the repository to your local machine.
+    
 # Functionalities:
 - Indicator Calculation: Computes short-term and long-term moving averages for analysis.
   
