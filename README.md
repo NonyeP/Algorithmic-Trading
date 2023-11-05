@@ -61,7 +61,7 @@ Before installing ensure you have :
 
 # Usage and Configuration
 ## Usage:
-   - Explore the user interface or APIs provided by the currency converter application.
+   - Explore the user interface or APIs provided by the application.
    - Configuration
       - The application requires configuration, such as API keys.  
 
